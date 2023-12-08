@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://github.com/abhranil2004?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/abhranil2004?tab=repositories" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://github.com/abhranil2004?tab=repositories](https://www.instagram.com/_abhi_is_back_2403/?utm_source=qr&igshid=OWM2ZWI5NDFkNA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/abhranil2004?tab=repositories" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
