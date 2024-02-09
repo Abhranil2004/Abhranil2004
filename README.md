@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ANDROID DEVELOPER**
 
-- 🌱 I’m currently learning **CUSTOM ROME**
+- 🌱 I’m currently learning **CUSTOM ROM**
 
 - 👯 I’m looking to collaborate on **A.I**
 
