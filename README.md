@@ -96,7 +96,9 @@
 </p>
 
 <h3 align="left">Batch:</h3>
+
 <p align="left">
   <img src="https://github.com/Abhranil2004/Abhranil2004/blob/main/aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Graduate - Cloud Foundations Badge" width="180" />
+  <img src="https://github.com/Abhranil2004/Abhranil2004/blob/main/introduction-to-data-science.png" alt="Introduction to Data Science CISCO" width="180" />
 </p>
 
