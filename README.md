@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhranil2004/Abhranil2004/blob/main/ABHRANIL%20DUTTA.png)
+![logo](https://github.com/Abhranil2004/Abhranil2004/blob/main/Abhranil%202004.png)
 
 <h1 align="center">Hi 👋, I'm ABHRANIL</h1>
 <h3 align="center">A passionate programmer from India</h3>
